@@ -53,11 +53,6 @@ class DoctorControllerUnitTest{
     @Autowired
     private ObjectMapper objectMapper;
 
-    @Test
-    void this_is_a_test(){
-        // DELETE ME
-        assertThat(true).isEqualTo(false);
-    }
 }
 
 
@@ -73,11 +68,6 @@ class PatientControllerUnitTest{
     @Autowired
     private ObjectMapper objectMapper;
 
-    @Test
-    void this_is_a_test(){
-        // DELETE ME
-        assertThat(true).isEqualTo(false);
-    }
 
 }
 
